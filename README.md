@@ -16,7 +16,7 @@
 ### - [Kibana]
 
 # Content
-### - The project aims to copy as much as possible from the web site w3shools.com and add additional technology as an option.
+### - Using an Elastic Search, Search Engine Using data called bank Create a mini-project that uses a query statement to catch voice phishers
 
 # Preview project
 <img src="Preview img/img1.png">
