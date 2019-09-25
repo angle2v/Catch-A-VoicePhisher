@@ -14,6 +14,8 @@
 
 # Used Visualization platform
 ### - [Kibana]
+# crhome Extension tool
+### - [Elastic Search Head]
 
 # Content
 ### - Using an Elastic Search, Search Engine Using data called bank Create a mini-project that uses a query statement to catch voice phishers
