@@ -1,5 +1,5 @@
 # Project Name
-# [Catch a Voice Phisher](https://github.com/angle2v/Catch-A-VoicePhisher)
+# [Catch-a-Voice-Phisher](https://github.com/angle2v/Catch-A-VoicePhisher)
 
 # Team Members
 
