@@ -14,7 +14,7 @@
 
 # Used Visualization platform
 ### - [Kibana]
-# crhome Extension tool
+# Crhome Extension Tool
 ### - [Elastic Search Head]
 
 # Content
